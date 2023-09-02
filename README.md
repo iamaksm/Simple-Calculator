@@ -1,4 +1,4 @@
-# Simple Calculator using Tkinter
+# CODSOFT TASK 2 Simple Calculator using Tkinter
 This is a simple calculator application built using the Tkinter library in Python. It provides a basic graphical user interface (GUI) that allows users to perform simple arithmetic calculations.
 
 ## Features
